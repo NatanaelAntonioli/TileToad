@@ -68,7 +68,7 @@ After you execute the program, it will generate the following assets in their re
 
 ![](https://i.imgur.com/womNFo5.png)
 
-`waterfall` tiles, making waterfall and foam tiles. Each fluid tile is used. With the generate sheet, you can make foam in 4 directions, plus full and delimited waterfalls, with special tiles for tops and bottoms. 
+`waterfall` tiles, making waterfall and foam tiles. Each fluid tile is used. With the generated sheet, you can make foam in 4 directions, plus full and delimited waterfalls, with special tiles for tops and bottoms. 
 
 ![](https://i.imgur.com/7nhB1jD.png)
 
