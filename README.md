@@ -121,6 +121,10 @@ That means you can edit the masks to change how the tilesets will look. Just mak
 
 Not really a FAQ since no one asked me anything yet.
 
+**What is basic size of each tile?**
+
+32x32. For now, this can only be changed by modifying the source code.
+
 **What job TileToad will spare me to do?**
 
 With TileToad, you won't have to worry about manually determining and drawing (or making PhotoShop masks and patterns) for transitions, rivers, cliffs and waterfalls to you game. Just add the base textures, import to your engine and you are good to go.
