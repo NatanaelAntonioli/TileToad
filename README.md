@@ -10,6 +10,13 @@ TileToad helps you generating those combinations. It also generates tilesets for
 
 ![](https://i.imgur.com/kGnQP2f.png)
 
+- [Why and when should I use TileToad?](#why-and-when-should-i-use-tiletoad-)
+- [How to run TileToad](#how-to-run-tiletoad)
+- [How to generate tilesets](#how-to-generate-tilesets)
+- [How tilesets are generated (and how to change that)](#how-tilesets-are-generated--and-how-to-change-that-)
+- [FAQ](#faq)
+- [Attribution notice](#attribution-notice)
+
 ## How to run TileToad ##
 
 You will need [Python 3](https://www.python.org/downloads/). Before running for the first time, you will also need to install [Pillow](https://pillow.readthedocs.io/en/stable/) with `pip install Pillow `
