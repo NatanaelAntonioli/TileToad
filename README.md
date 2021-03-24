@@ -107,7 +107,7 @@ Generating stairs is very simple, and follows the same logic.
 
 ![](https://i.imgur.com/FbXBdX3.png)
 
-Generating cliffs a bit more complicated, but also follows the same logic. 
+Generating cliffs is a bit more complicated, but also follows the same logic. 
 
 ![](https://i.imgur.com/rSzRdy2.png)
 
