@@ -121,7 +121,7 @@ That means you can edit the masks to change how the tilesets will look. Just mak
 
 Not really a FAQ since no one asked me anything yet.
 
-**What is basic size of each tile?**
+**What is the base size of each tile?**
 
 32x32. For now, this can only be changed by modifying the source code.
 
