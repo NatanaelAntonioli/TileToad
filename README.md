@@ -1,3 +1,5 @@
+[![](https://i.imgur.com/PyODWW3.png)](https://www.instagram.com/sega_the_toad/)
+
 ## Why and when should I use TileToad? ##
 
 TileToad is a Python application designed to facilitate the creation of terrain tilesets by automatically generating neat transitions between tiles and combinations for cliffs, rivers and waterfalls. 
@@ -9,13 +11,6 @@ In a [tile based video game](https://en.wikipedia.org/wiki/Tile-based_video_game
 TileToad helps you generating those combinations. It also generates tilesets for cliffs and waterfalls from the same textures. 
 
 ![](https://i.imgur.com/kGnQP2f.png)
-
-- [Why and when should I use TileToad?](#why-and-when-should-i-use-tiletoad-)
-- [How to run TileToad](#how-to-run-tiletoad)
-- [How to generate tilesets](#how-to-generate-tilesets)
-- [How tilesets are generated (and how to change that)](#how-tilesets-are-generated--and-how-to-change-that-)
-- [FAQ](#faq)
-- [Attribution notice](#attribution-notice)
 
 ## How to run TileToad ##
 
@@ -154,10 +149,11 @@ I think the best way to import the transitions into an engine is to delete alrea
 
 Textures used in the demo were taken from [OpenGameArt](http://opengameart.org/) and [Itch.io](http://itch.io), so I must credit the following contributors:
 
+- The toad in the logo is called SEGA. You should really check her [Instagram](https://www.instagram.com/sega_the_toad/) for more pictures.
 - [qubodup, Bart K., Blarumyrran](https://opengameart.org/content/oga-community-tileset-nature)
 - [Ivan Voirol](https://opengameart.org/content/basic-map-32x32-by-ivan-voirol)
 - [Hyptosis](https://opengameart.org/content/lots-of-free-2d-tiles-and-sprites-by-hyptosis)
-- ["[LPC] Terrains" by bluecarrot16, Lanea Zimmerman (Sharm), Daniel Eddeland (Daneeklu), Richard Kettering (Jetrel), Zachariah Husiar (Zabin), Hyptosis, Casper Nilsson, Buko Studios, Nushio, ZaPaper, billknye, William Thompson, caeles, Redshrike, Bertram, and Rayane Félix (RayaneFLX)](https://opengameart.org/content/lpc-terrains)
+- [bluecarrot16, Lanea Zimmerman (Sharm), Daniel Eddeland (Daneeklu), Richard Kettering (Jetrel), Zachariah Husiar (Zabin), Hyptosis, Casper Nilsson, Buko Studios, Nushio, ZaPaper, billknye, William Thompson, caeles, Redshrike, Bertram, and Rayane Félix (RayaneFLX)](https://opengameart.org/content/lpc-terrains)
 - [Catalin Pavel](https://opengameart.org/content/dirt-texture-pack)
 - [PIPOYA](https://pipoya.itch.io/pipoya-rpg-tileset-32x32)
 
