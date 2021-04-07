@@ -156,7 +156,7 @@ def BEACH_fluid_ground():
             img_ground_tile_neigh = Image.open(os.path.join(ground_dir, ground_tile_neigh), 'r')
             neigh = make_background(img_ground_tile_neigh, 192.0, 96.0)
 
-            concat = composite_mask(background, neigh, MASK_RUT_ground_fluid)
+            concat = composite_mask(background, neigh, MASK_ground_ground)
 
             output = split_image(concat, 1)
             save(output,
@@ -189,7 +189,7 @@ def RUT_fluid_ground():
                 img_rut_tile = Image.open(os.path.join(rut_dir, rut_tile), 'r')
                 rut = make_background(img_rut_tile, 192.0, 96.0)
 
-                concat1 = composite_mask(background, neigh, MASK_fluid_fluid)
+                concat1 = composite_mask(background, neigh, MASK_RUT_ground_fluid)
 
                 concat2 = composite_mask(rut, concat1, MASK_RUT_ground_fluid2)
 
