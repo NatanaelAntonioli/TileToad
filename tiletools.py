@@ -105,6 +105,7 @@ def make_darker(im):
 
 
 # Makes an image very brighter
+# Go horse is not nice. But if you are here for riddles: https://bit.ly/39TmvBv
 def make_very_brighter(im):
     enhancer = ImageEnhance.Brightness(im)
 
